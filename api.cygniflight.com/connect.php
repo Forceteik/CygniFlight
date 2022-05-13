@@ -1,3 +1,3 @@
 <?php
 
-$connect = mysqli_connect('localhost', 'root', 'root', 'cusvoc');
+$connect = mysqli_connect('localhost', '****', '****', 'cusvoc');
